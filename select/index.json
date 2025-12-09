@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "もっと光を",
+  "base_artist": "BLUE ENCOUNT",
+  "createdAt": "2025-12-09T13:28:11.015451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もっと光を!",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/01_もっと光を!_人間椅子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もっと光を (HALL TOUR 2019 apartment of SICK(S)@中野サンプラザ06.21)",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": false,
+      "path": "select/02_もっと光を_(HALL_TOUR_2019_apartment_of_SICK(S)@中野サンプラザ06.21)_BLUE_ENCOUNT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "もっと光を",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/03_もっと光を_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もっと光を！",
+      "artist": "Ningen-Isu",
+      "has_synced": false,
+      "path": "select/04_もっと光を!_Ningen-Isu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もっと光を!",
+      "artist": "Ningen Isu",
+      "has_synced": true,
+      "path": "select/05_もっと光を!_Ningen_Isu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "もっと光を！ (シングル)",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/06_もっと光を!_(シングル)_人間椅子.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "もっと光を！ (シングル)",
+      "artist": "Ningen-Isu",
+      "has_synced": false,
+      "path": "select/07_もっと光を!_(シングル)_Ningen-Isu.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "もっと光を",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/08_もっと光を_人間椅子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もっと光を",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": false,
+      "path": "select/pl_01_もっと光を_BLUE_ENCOUNT.txt"
+    }
+  ]
+}
